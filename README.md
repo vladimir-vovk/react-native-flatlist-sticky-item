@@ -2,7 +2,7 @@
 
 An example of a sticky item (row) for the React Native FlatList.
 
-![example](./screen-1.gif)
+<img src="./screen-1.gif" width="300"></img>
 
 ## Installation
 
